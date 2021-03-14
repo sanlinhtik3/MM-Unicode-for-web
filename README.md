@@ -1,6 +1,6 @@
 # unicode
 
-## Website အတွင်း Myanmar Unicode fonts ကိုထည့်သုံးမည်ဆိုပါက CSS တွင်ရေသားရမည်ဖြစ်သည်။
+Website အတွင်း Myanmar Unicode fonts ကိုထည့်သုံးမည်ဆိုပါက CSS တွင်ရေသားရမည်ဖြစ်သည်။
 
 ### CSS code
 
