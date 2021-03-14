@@ -20,7 +20,7 @@ _*_ ဆိုတာက web ထဲရှိသမျှစာအားလုံ�
 [click1]: https://www.facebook.com/sanlinhtike.kohtike/
 [click2]: https://www.facebook.com/sanlinhtike.kohtike/
 
-|Name                           |Link
+|Name                           |Redirect
 |-------------------------------|:--------------------
 |facebook                       |[click1]
 |messenger                      |[click2]
